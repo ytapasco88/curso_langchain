@@ -1,0 +1,22 @@
+# Entornos
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+env/
+.conda/
+*.yml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.cursor/
+
+# Logs
+*.log
